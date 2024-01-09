@@ -24,7 +24,7 @@ It makes sure that you will have all the neccesary packages to run the `NN.py` s
 ## Usage
 To replicate our analysis and model training:
 1. Launch Jupyter Notebook or Jupyter Lab.
-2. Open and execute the cells in `model_training.ipynb`.
+2. Open and execute the cells in `NN.py`.
 
 ## Data Preprocessing
 The notebook details steps for reducing dataset memory usage, filling missing values, and normalizing features.
